@@ -1,8 +1,8 @@
 # Site settings
-title: Zack Schmid
-email: your-email@domain.com
+title: Another hot day in ATX
+email: zaxxon77@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog site documenting what Zack Schmid is up to these days.
+  A blog documenting a few tidbits of life here in ATX.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 2oldForThisHit
@@ -10,3 +10,4 @@ github_username:  zaxxon77
 
 # Build settings
 markdown: kramdown
+
